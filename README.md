@@ -25,7 +25,7 @@ Cloud Native Architect & Platform Engineer specializing in designing and automat
 
 ### 🌟 Featured Enterprise Architecture Repository
 
-#### 🤖 [terraform-azure-iac](https://github.com/RepoCodeGanesh/terraform-azure-iac) — Enterprise Azure AI Landing Zone & TaxBot Platform
+#### 🤖 [terraform-azure-iac](https://github.com/RepoCodeGanesh/terraform-azure-iac) [![GitHub Stars](https://img.shields.io/github/stars/RepoCodeGanesh/terraform-azure-iac?style=social)](https://github.com/RepoCodeGanesh/terraform-azure-iac) — Enterprise Azure AI Landing Zone & TaxBot Platform
 > *Production-grade enterprise Azure AI Landing Zone provisioned with Terraform, dual CI/CD, zero-secret WIF authentication, and $0/mo cost optimization.*
 
 - **Multi-Root IaC Architecture**: Independent state management across `platform/bootstrap`, `platform/hub`, `platform/shared-services`, and `workloads/tax-advisor`.
