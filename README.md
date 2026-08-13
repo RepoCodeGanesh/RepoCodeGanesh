@@ -38,9 +38,9 @@ Cloud Native Architect & Platform Engineer specializing in designing and automat
 
 ### 📊 GitHub Activity & Metrics
 
-![Ganesan Kasi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RepoCodeGanesh&show_icons=true&theme=nord)
+![Ganesan Kasi's GitHub Stats](https://github-stats-extended.vercel.app/api?username=RepoCodeGanesh&show_icons=true&theme=nord)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RepoCodeGanesh&layout=compact&theme=nord)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=RepoCodeGanesh&layout=compact&theme=nord)
 
 ---
 
